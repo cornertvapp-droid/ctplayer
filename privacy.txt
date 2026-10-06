@@ -1,0 +1,84 @@
+Privacy Policy for CT Player
+Last updated: October 6, 2026
+CT Player is provided by [developer’s full legal name or registered company name, address, and country], referred to as “we,” “us,” or “our.”
+This Privacy Policy explains how information is processed when you use CT Player and how to contact us about your privacy.
+Privacy contact: LyndsayMiron4922@outlook.com
+
+1. Information used to play videos
+CT Player plays video links entered by you or received from another application. It may process the video URL, content identifier, optional title, playback mode, and playback state to open and control the requested video.
+The app does not require an account or maintain a local viewing-history database. Video URLs and related input may remain in memory while the app is running. Native playback components may temporarily cache media or generate diagnostic information.
+
+2. Connections to video providers and other services
+Playing a video connects your device to the media provider and any delivery servers used by that provider. These services may receive your IP address, requested URL, access tokens included in the URL, request headers, and technical connection information.
+For content opened through supported match links, CT Player sends the content identifier to a provider service to record an opening attempt and retrieve available streams. An opening may be recorded even if playback does not start or complete.
+The app also contacts an update service before playback. Some streams require a connection to the ipify public-IP service to prepare access credentials. On iOS, the app may contact Apple to locate its App Store listing when you select Update.
+External services process information according to their own practices and privacy policies. This includes the provider of the optional sample video.
+
+3. Advertising through Google AdMob
+CT Player uses Google AdMob to display full-screen advertisements before playback.
+Depending on the platform, permissions, consent choices, and SDK configuration, Google’s advertising services may process:
+- IP addresses and approximate location inferred from them.
+- Device, app, and advertising identifiers where available.
+- Ad impressions, interactions, and other app interaction information.
+- Diagnostic and performance information.
+This information supports advertising delivery, measurement, service operation, and fraud prevention. Google describes these practices in its Android and iOS SDK disclosures.
+CT Player requests non-personalized ads. These ads still involve data processing. The app does not deliberately include your video URL or video title in advertising requests.
+Google’s handling of personal information is described in its Privacy Policy.
+
+4. Advertising privacy choices
+CT Player uses Google’s User Messaging Platform to determine whether advertising requests are permitted and to present applicable privacy choices.
+Where available, you can revisit these choices through About → Ad privacy choices. The app skips advertising requests when the consent SDK does not permit them. Withdrawing consent does not affect processing that lawfully occurred before withdrawal.
+You can also use advertising privacy controls provided by your device. Non-personalized advertising does not necessarily eliminate consent requirements. See Google’s consent documentation.
+
+5. Firebase and connection recovery
+CT Player uses Google Firebase Remote Config to obtain replacement API connection settings when provider requests repeatedly fail.
+Firebase may process an installation identifier, IP address, app information, and technical service information to deliver and operate this configuration service. CT Player does not intentionally send video URLs or titles to Remote Config.
+This version does not integrate Firebase Analytics or Firebase Crashlytics. Firebase’s practices are described in its Privacy and Security documentation.
+
+6. Information stored on your device
+CT Player stores certain operational settings locally, including saved API hostnames, the selected hostname, connection-failure state, and an advertising/admin-mode preference. Advertising SDKs may also store privacy choices and other operational information.
+These settings are separate from viewing history. You can remove local app data through your operating system’s controls. Removing the app or clearing local data does not necessarily delete records already held by external services, and operating-system backups may retain or restore some settings.
+The app reads clipboard text when you select Paste and writes a generated link when you select a copy action.
+CT Player does not request access to your contacts, camera, microphone, photo library, or precise device location. Your IP address may nevertheless reveal an approximate location to connected services.
+
+7. Support communications
+If you contact us by email, we receive your email address, message, and any information or attachments you choose to provide. We use this information to respond to your request and address support or privacy issues.
+Please avoid sending passwords, private video-access tokens, or other unnecessary sensitive information.
+
+8. Purposes and legal grounds
+We process information to provide requested playback, obtain stream details, check for updates, maintain connections, operate advertising and privacy choices, prevent abuse, and respond to support requests.
+Where applicable data-protection law requires a legal basis, processing relies on the appropriate basis for its purpose: providing a service you request, legitimate interests in maintaining and securing the service, complying with legal obligations, or consent where required. Legitimate interests do not override rights that require protection.
+Information is made available to the service providers described in this policy as needed for these purposes. We may also disclose information where legally required or necessary to establish, exercise, or defend legal claims.
+
+9. Retention and deletion
+Retention depends on the information and the service processing it:
+- Playback information: the app does not intentionally retain a viewing-history database. Playback state and entered links may remain in memory during use; native components may maintain temporary caches.
+- Local settings: retained until removed or replaced through the app or operating system, subject to backup behavior.
+- Support correspondence: [insert the actual retention period or specific deletion criteria].
+- API requests, opening records, and server logs under our control.
+- External service records: Google, media providers, and other services apply their own retention practices and applicable obligations.
+You may contact us to request deletion of personal information under our control. We may need limited information to verify and locate your request. Some records may need to be retained to meet legal obligations or resolve disputes.
+
+10. Security and international processing
+Information may be processed in countries other than your own through Google, media providers, and other service providers.
+[Identify any international-transfer safeguards applicable to processing for which you are responsible.]
+CT Player supports both HTTPS and user-supplied HTTP media links. HTTP connections are not encrypted. Use trusted HTTPS sources whenever possible. No transmission or storage method can guarantee complete security.
+
+11. Your privacy rights
+Depending on your location and applicable law, you may have rights to access, correct, delete, or obtain a copy of your personal information; restrict or object to certain processing; and withdraw consent.
+You may also have the right to complain to your local data-protection authority. These rights may be subject to conditions and exceptions. The European Commission provides information about EU data-protection rights.
+To submit a request, email LyndsayMiron4922@outlook.com.
+
+12. Children’s privacy
+CT Player is not intended for children under 14.
+If you believe a child has provided personal information to us, contact us. We will investigate and take appropriate action concerning information under our control.
+
+13. Changes to this policy
+We may update this policy when the app, its service providers, or its data practices change. The current version will be available through the app’s privacy-policy link, with an updated date. Where required, we will provide additional notice or obtain consent before introducing relevant changes.
+
+14. Contact
+For privacy questions or requests:
+Email: LyndsayMiron4922@outlook.com
+
+
+12:51 PM
