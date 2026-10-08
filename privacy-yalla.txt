@@ -1,0 +1,71 @@
+Privacy Policy — Yalla Lives Pro
+
+Last updated: October 8, 2026
+
+This Privacy Policy explains how ylp pro ("we", "us", or "our") handles information when you use ylp pro, also branded in the app as يلا لايف بروو, on iPhone or iPad. For privacy questions or requests, contact admin.yallalivepro@gmail.com.
+
+## 1. Information handled by the app
+
+You do not need to create an account or provide a name, payment details, or a user profile to browse the app. The current app does not request access to your precise location, contacts, camera, photos, or microphone.
+
+On your device: The app stores saved match identifiers, language and theme preferences, an app-opening count and review-prompt status, and service configuration information. It may also cache downloaded images. The app does not upload these preferences as a personal account profile. Local app data may be included in device backups according to your Apple settings.
+
+Technical requests: Loading fixtures, match details, team images, and service configuration requires internet connections. Our backend, hosting providers, and content services receive information needed to handle those requests, such as your IP address, the requested resource, request time, and available app, operating-system or connection information. Technical access and error logs may be kept to operate, troubleshoot, and protect the service.
+
+Support correspondence: If you email us, we receive your email address and any messages or attachments you choose to send. We use this information to respond and handle your request. Please avoid sending information that is unnecessary for your request.
+
+## 2. Firebase and push notifications
+
+The app uses Google Firebase Cloud Messaging to deliver notifications and Firebase Remote Config to obtain service settings, including connection configuration. Firebase processes installation identifiers and related technical information to provide these services. Notification delivery also involves Firebase registration tokens and Apple Push Notification service device tokens.
+
+We ask for iOS notification permission. If you allow notifications, your installation can subscribe to a general topic for football updates and app announcements. You can turn notifications off in iOS Settings at any time.
+
+Notification permission controls whether alerts are displayed. Turning off alerts does not necessarily stop Firebase from processing installation identifiers or delete identifiers that were already created. Remote configuration and other network features may continue to operate.
+
+More information about Firebase data handling: https://firebase.google.com/support/privacy
+
+## 3. How information is used and shared
+
+We use information to provide match information and app features, remember local preferences, deliver notifications you enable, respond to support requests, and maintain the reliability and security of the service.
+
+Information is processed by service providers involved in these functions, including Google Firebase, Apple push-notification services, backend hosting and content providers, and our email provider when you contact support. We may also disclose information where required by law or necessary to address fraud, abuse, or security incidents. For their privacy information, see https://firebase.google.com/support/privacy and https://www.apple.com/legal/privacy/.
+
+The current app does not display advertising, include Google Analytics for Firebase, or use advertising identifiers for cross-app tracking. We do not sell personal information or share it for targeted advertising.
+
+## 4. External apps, links, sharing, and reviews
+
+If you use Share, iOS opens its share sheet and the service you select handles the information you choose to send. If an available feature opens a website or a separate video-player app, that service receives the information passed to it, such as the requested content link, and handles it under its own privacy policy. App Store ratings and reviews are handled by Apple. This policy does not govern those separate services.
+
+## 5. Retention and deletion
+
+Local preferences remain until they are changed or removed. Deleting the app normally removes its local data from that device. Offloading the app can preserve app data, and backups may retain copies under your Apple settings.
+
+We retain support correspondence and technical records for as long as needed to handle the relevant request, operate and secure the service, resolve disputes, or meet applicable legal obligations. Retention depends on the record and its purpose; deleting the app does not automatically erase server logs or emails.
+
+Firebase states that installation identifiers used by Cloud Messaging and Remote Config are retained until deleted through its API. After a deletion request, removal from its live and backup systems may take up to 180 days. Other provider records are subject to their applicable retention practices. Disabling notifications or uninstalling the app does not guarantee immediate deletion of provider-held information.
+
+## 6. Your privacy choices and rights
+
+You can change your language and theme in the app, remove saved matches, manage notifications in iOS Settings, and delete the app. There is no user account to close.
+
+Depending on where you live, you may have rights to request access to, correction of, or deletion of personal information, to object to or restrict processing, or to complain to a data-protection authority. Contact admin.yallalivepro@gmail.com to make a request. We may need information to verify and locate the relevant records. Some technical identifiers cannot be connected to a named individual, and information may need to be retained where the law permits or requires it.
+
+## 7. International processing and security
+
+Our service providers may process information in countries other than your own, including the United States and other locations where Google and its providers operate. Their privacy notices and applicable service terms describe their processing and transfer arrangements.
+
+Connections to our current backend and Firebase use HTTPS. We use security measures appropriate to the information we handle, but no method of internet transmission or storage can guarantee absolute security.
+
+## 8. Children’s privacy
+
+ylp pro is not directed to children under 13. We do not knowingly ask children to provide personal information. If you believe a child has provided personal information to us, contact us so we can investigate and take appropriate action.
+
+## 9. Changes to this policy
+
+We may update this policy when the app or our data practices change. We will update the date shown above and provide additional notice or obtain consent where required by applicable law.
+
+## 10. Contact
+
+App operator: ylp pro
+
+Privacy contact: admin.yallalivepro@gmail.com
